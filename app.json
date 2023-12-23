@@ -34,7 +34,7 @@
       },
       "OWNER_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐎𝐖𝐍𝐄𝐑 𝐈𝐃, 𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐌𝐎𝐑𝐄 𝐏𝐄𝐑𝐒𝐎𝐍 𝐈𝐃 𝐁𝐘 𝐆𝐈𝐕𝐄𝐈𝐍𝐆 𝐒𝐏𝐀𝐂𝐄 𝐀𝐅𝐓𝐄𝐑 𝐎𝐍𝐄 𝐈𝐃.",
-        "value": "1808943146",
+        "value": "6828084675",
         "required": true
       },
       "STRING_SESSION": {
@@ -56,7 +56,7 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ) , {𝐈𝐅 𝐆𝐑𝐎𝐔𝐏 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞+85vaorE-w8VkYTBl) ",
 
-       "value": "TG_FRIENDSS",
+       "value": "bestiezone81",
 
        "required": false
 
@@ -65,14 +65,14 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ), { 𝐈𝐅 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞:- (+85vaorE-w8VkYTBl). ",
 
-       "value": "VIP_CREATORS",
+       "value": "wingo1tc",
 
        "required": false
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+        "value": "https://telegra.ph/file/0c728c9836b6c8656e9be.jpg",
         "required": false
       },
       "LOG_GROUP_ID": {

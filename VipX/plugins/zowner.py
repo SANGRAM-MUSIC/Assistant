@@ -51,7 +51,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 My Onwer 🌹", url=f"https://t.me/it_f24 ")
+                        "🌹 My Onwer 🌹", url=f"https://t.me/it_f24")
                 ]
             ]
         ),
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌹 My Owner 🌹", url=f"https://t.me/it_f24 ")
+                        "🌹 My Owner 🌹", url=f"https://t.me/it_f24")
                 ]
             ]
         ),
